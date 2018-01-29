@@ -1,4 +1,6 @@
 # ScoreKeeper game
-# Score Keeper game build from scratch
-# Using JavaScript
-# Added Bootstrap to file
+* Using JavaScript
+* Import Bootstrap to file
+Score Keeper game build from scratch, using js, and design with bootstrap. 
+
+
